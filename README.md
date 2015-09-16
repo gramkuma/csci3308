@@ -1,2 +1,5 @@
 # csci3308
-Recitation 
+Recitation Work
+
+Girish Ramkumar
+GIT Version Control
